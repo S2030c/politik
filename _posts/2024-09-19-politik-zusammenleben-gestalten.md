@@ -1,6 +1,6 @@
-—  
+---
 title: Politik als Gesamtheit der Prozesse die unser Zusammenleben gestalten  
-—  
+---
 Politik, das ist mehr als nur das, was in Parlamenten verhandelt wird. Es ist die Gesamtheit der Prozesse, die unser Zusammenleben gestalten, die Entscheidungen treffen, die uns alle betreffen. Politik ist allgegenwärtig, sie durchdringt jeden Winkel unseres Lebens, von der kleinsten Gemeinschaft bis hin zur globalen Ebene.
 
 **Politische Bildung ist der Schlüssel, um diese komplexe Welt zu verstehen.** Sie befähigt uns, an den politischen Prozessen teilzuhaben, unsere eigenen Interessen zu vertreten und die Gesellschaft mitzugestalten. 
