@@ -21,7 +21,7 @@ Und als solche ist dieser Bereich durchaus ein wichtiger Aspekt unseres Lebens u
 
 Also habe ich mich entschlossen den Bereich hier "korrekterweise" als Politik zu bezeichnen. 
 
-Hier geht es also um **die Gesammtheit der Prozesse durch die gesellschaftliche ENtscheidungen getroffen werden, und MAcht ausgeübt wird**, und vielleicht auch in diesem Kontext um *eine Kritik und Betrachtung der Prozesse und Aspekte*. Aufgrund der Umstände derzeit könnte dies auch an Momentan stattfindenden Prozessen verankert sein, das lässt sich oft nur schwer verhindern, und ist vielleicht auch durchaus nützlich. 
+Hier geht es also um **die Gesamtheit der Prozesse durch die gesellschaftliche Entscheidungen getroffen werden, und Macht ausgeübt wird**, und vielleicht auch in diesem Kontext um *eine Kritik und Betrachtung der Prozesse und Aspekte*. Aufgrund der Umstände derzeit könnte dies auch an Momentan stattfindenden Prozessen verankert sein, das lässt sich oft nur schwer verhindern, und ist vielleicht auch durchaus nützlich. 
 
 
 ### Kontaktiere mich
