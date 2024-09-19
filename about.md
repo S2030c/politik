@@ -1,8 +1,11 @@
 ---
 layout: page
-title: About
+title: About Politik
 permalink: /about/
 ---
+Politik, das ist mehr als nur das, was in Parlamenten verhandelt wird. Es ist die Gesamtheit der Prozesse, die unser Zusammenleben gestalten, die Entscheidungen treffen, die uns alle betreffen. Politik ist allgegenwärtig, sie durchdringt jeden Winkel unseres Lebens, von der kleinsten Gemeinschaft bis hin zur globalen Ebene
+
+## Das Angebot hier
 
 Ich wollte es vermeiden »etwas über Politik« "anzubieten", weil man sich damit "nur die Finger und noch viel mehr" verbrennen kann. 
 
