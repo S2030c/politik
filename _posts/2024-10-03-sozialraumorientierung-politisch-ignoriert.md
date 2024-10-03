@@ -1,5 +1,5 @@
 ---
-title: Sozialraumorientierung – Ein Schrei in die politische Leere, und politisch ignoriert und ausgeblendet
+title: Sozialraumorientierung – Ein Schrei in die politische Leere, politisch ignoriert und ausgeblendet
 ---
 Die **Forderung nach einer stärkeren Sozialraumorientierung** in der Politik ist kein neues Phänomen. **Seit Jahrzehnten wird sie von Sozialarbeitern, Stadtplanern und Bürgerinitiativen erhoben.** Doch trotz der scheinbaren **Evidenz**, dass eine solche Orientierung zu **mehr Lebensqualität, sozialer Gerechtigkeit und nachhaltiger Entwicklung** führen kann, stößt sie in den politischen Entscheidungsgremien immer wieder **auf taube Ohren**.
 
