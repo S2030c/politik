@@ -5,15 +5,15 @@ permalink: /about/
 ---
 Politik, das ist mehr als nur das, was in Parlamenten verhandelt wird. Es ist die Gesamtheit der Prozesse, die unser Zusammenleben gestalten, die Entscheidungen treffen, die uns alle betreffen. Politik ist allgegenwärtig, sie durchdringt jeden Winkel unseres Lebens, von der kleinsten Gemeinschaft bis hin zur globalen Ebene
 
-## Politik:
+Politik ist: 
 
-**Die Gesamtheit der Prozesse, durch die gesellschaftliche Entscheidungen getroffen werden und Macht ausgeübt wird.** 
+### Die Gesamtheit der Prozesse, durch die gesellschaftliche Entscheidungen getroffen werden und Macht ausgeübt wird. 
 
 ## Politische Bildung
 
-*Der Schlüssel zu einer funktionierenden Demokratie*
+*Eine solche Bildung ist der Schlüssel zu einer funktionierenden Demokratie*
 
-Politische Bildung ist mehr als nur das Vermitteln von Fakten über politische Systeme und Prozesse. Sie ist ein lebenslanger Lernprozess, der uns befähigt, aktiv an der Gestaltung unserer Gesellschaft teilzuhaben. In einer komplexen und schnelllebigen Welt, geprägt von globalen Herausforderungen und vielfältigen Interessen, ist politische Bildung unverzichtbar.
+Politische Bildung ist **mehr als nur das Vermitteln von Fakten über politische Systeme** und Prozesse. Sie ist ein **lebenslanger Lernprozess**, der uns befähigt, aktiv an der Gestaltung unserer Gesellschaft teilzuhaben. In einer komplexen und schnelllebigen Welt, geprägt von globalen Herausforderungen und vielfältigen Interessen, ist politische Bildung unverzichtbar.
 
 Politische Bildung ermöglicht es uns, politische Entscheidungen kritisch zu hinterfragen, unsere eigenen Standpunkte zu entwickeln und uns für unsere Überzeugungen einzusetzen. 
 
