@@ -5,23 +5,27 @@ permalink: /about/
 ---
 Politik, das ist mehr als nur das, was in Parlamenten verhandelt wird. Es ist die Gesamtheit der Prozesse, die unser Zusammenleben gestalten, die Entscheidungen treffen, die uns alle betreffen. Politik ist allgegenwärtig, sie durchdringt jeden Winkel unseres Lebens, von der kleinsten Gemeinschaft bis hin zur globalen Ebene
 
-## Das Angebot hier
-
-Ich wollte es vermeiden »etwas über Politik« "anzubieten", weil man sich damit "nur die Finger und noch viel mehr" verbrennen kann. 
-
-Politik ist vor allem derzeit (beim Start hier 2024, ende Sommer im September) ein Themen und allgemeiner Bereich der Betrachtung der ziemlich entgleist ist, und auf seine Art "Toxisch". 
-
-Der Umstand und Aspekt wie Politik derzeit ist und wahrgenommen wird liegt jedoch nicht an der Politik selbst, sondern vielmehr an der konkreten Gestaltung bzw. der Verwaltung (und damit verbundenen Ordnung) derselben. 
-
-Ganz im Allgemeinen ist Politik:
+## Politik:
 
 **Die Gesamtheit der Prozesse, durch die gesellschaftliche Entscheidungen getroffen werden und Macht ausgeübt wird.** 
 
-Und als solche ist dieser Bereich durchaus ein wichtiger Aspekt unseres Lebens und unserer Existenz, der sich auch anbietet betrachtet zu werden. Dass es zur Zeit "etwas schwierig ist" hat ja nichts mit diesem Bereich an sich zu tun. 
+## Politische Bildung
 
-Also habe ich mich entschlossen den Bereich hier "korrekterweise" als Politik zu bezeichnen. 
+*Der Schlüssel zu einer funktionierenden Demokratie*
 
-Hier geht es also um **die Gesamtheit der Prozesse durch die gesellschaftliche Entscheidungen getroffen werden, und Macht ausgeübt wird**, und vielleicht auch in diesem Kontext um *eine Kritik und Betrachtung der Prozesse und Aspekte*. Aufgrund der Umstände derzeit könnte dies auch an Momentan stattfindenden Prozessen verankert sein, das lässt sich oft nur schwer verhindern, und ist vielleicht auch durchaus nützlich. 
+Politische Bildung ist mehr als nur das Vermitteln von Fakten über politische Systeme und Prozesse. Sie ist ein lebenslanger Lernprozess, der uns befähigt, aktiv an der Gestaltung unserer Gesellschaft teilzuhaben. In einer komplexen und schnelllebigen Welt, geprägt von globalen Herausforderungen und vielfältigen Interessen, ist politische Bildung unverzichtbar.
+
+Politische Bildung ermöglicht es uns, politische Entscheidungen kritisch zu hinterfragen, unsere eigenen Standpunkte zu entwickeln und uns für unsere Überzeugungen einzusetzen. 
+
+Politische Bildung fördert Toleranz, Respekt und das **Verständnis für unterschiedliche Perspektiven**. Sie stärkt unsere Fähigkeit zum Dialog und zur Kompromissbereitschaft – unverzichtbare Voraussetzungen für eine funktionierende Demokratie.
+
+## Ziele politischer Bildung sind vielfältig
+
+**Vermittlung von Wissen:** Politische Bildung vermittelt grundlegende Kenntnisse über politische Systeme, Prozesse und Akteure. Sie informiert über aktuelle politische Entwicklungen und ermöglicht ein besseres Verständnis der Zusammenhänge zwischen Politik und Gesellschaft.
+
+**Förderung von Kompetenzen:** Politische Bildung stärkt die Fähigkeit zur politischen Urteilsbildung, zur Argumentation und zur Meinungsbildung. Sie vermittelt Medienkompetenz und befähigt uns, Informationen kritisch zu bewerten.
+
+**Entwicklung von Einstellungen:** Politische Bildung fördert demokratische Werte wie Freiheit, Gleichheit, Solidarität und Toleranz. Sie stärkt das Bewusstsein für die eigene politische Verantwortung und motiviert zur politischen Beteiligung.
 
 
 ### Kontaktiere mich
