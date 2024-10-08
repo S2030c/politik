@@ -49,10 +49,12 @@ Eine **offene und pluralistische Gesellschaft**, die den **Dialog zwischen versc
 
 ## Der Fundamentalismus ist ein komplexes Phänomen, das tief in den menschlichen Bedürfnissen nach Sicherheit, Zugehörigkeit und Sinnhaftigkeit verwurzelt ist. 
 
-## 
+-- 
 
 Um die Herausforderungen, die der Fundamentalismus mit sich bringt, zu bewältigen, bedarf es einer umfassenden **Auseinandersetzung mit den Ursachen** **und Folgen** dieses Phänomens sowie einer **Stärkung der demokratischen Werte** und Institutionen.
 
 2024-10-07
 
-In den Themenbereichen der Angebote hier, finden sich mögliche Lösungsansatze für fundamentalistische Orientierungen.
+----
+
+In den Themenbereichen der [Angebote hier](https://s2030c.github.io/projekte/), finden sich mögliche Lösungsansatze für fundamentalistische Orientierungen.
